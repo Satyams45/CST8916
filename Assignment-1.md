@@ -4,6 +4,9 @@
 **Use Case: Real-time Stock Market Monitoring App**
 
 ---
+## Introduction
+For traders and investors, real-time stock price monitoring is essential in today's hectic financial markets.  Because they are request-response based, traditional web communication techniques like REST can manage data requests well but have trouble providing real-time updates.  WebSockets allow for immediate push notifications for changes in stock prices, while GraphQL provides flexibility in data retrieval.  In the context of a stock market monitoring application, this paper examines the advantages and disadvantages of REST, GraphQL, and WebSockets. It also offers a hybrid strategy that uses WebSockets for real-time updates and GraphQL for structured queries.
+
 
 ### **Section 1: REST and GraphQL for Data Requests and Updates**
 
