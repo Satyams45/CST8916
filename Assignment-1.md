@@ -115,4 +115,9 @@ A combination of WebSockets and GraphQL offers the best real-time capabilities, 
 **Conclusion:**
 The best method for a real-time stock market monitoring app is a hybrid one that uses WebSockets for real-time updates and GraphQL for data management.  This combination streamlines data fetching, reduces latency, and scales effectively to accommodate numerous concurrent users.
 
+# References
+### 1. https://codezup.com/building-a-real-time-feed-with-graphql-and-websockets/
+### 2.https://www.codeproject.com/Articles/5387952/Building-a-Real-Time-Stock-Price-Tracker-with-NET
+### 3.https://chatgpt.com/
+
 
