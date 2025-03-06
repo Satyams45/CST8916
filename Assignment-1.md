@@ -120,4 +120,7 @@ The best method for a real-time stock market monitoring app is a hybrid one that
 ### 2.https://www.codeproject.com/Articles/5387952/Building-a-Real-Time-Stock-Price-Tracker-with-NET
 ### 3.https://chatgpt.com/
 
+# Video Presentation Link :
+https://drive.google.com/drive/folders/1uCNvOIvV3D5meJl8P-NpULyddE8BJDgM?usp=drive_link
+
 
